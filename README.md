@@ -9,3 +9,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=L00Q)  
   
+![Metrics](https://metrics.lecoq.io/l00q?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
